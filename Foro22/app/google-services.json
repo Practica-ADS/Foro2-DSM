@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "402877750954",
+    "project_id": "foro2-73d4b",
+    "storage_bucket": "foro2-73d4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402877750954:android:993c562f08399ba1a2fad3",
+        "android_client_info": {
+          "package_name": "com.example.foro2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAREHuYdEe98AkDZvQejVO2RlCt0cHJxfI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
